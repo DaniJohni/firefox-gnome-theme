@@ -9,6 +9,7 @@ firefoxInstallationPaths=(
     ~/.librewolf
     ~/.var/app/io.gitlab.librewolf-community/.librewolf
     ~/snap/firefox/common/.mozilla/firefox
+    ~/.floorp
 )
 
 currentTheme=$(gsettings get org.gnome.desktop.interface gtk-theme ) || currentTheme=""
