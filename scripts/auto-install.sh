@@ -4,11 +4,6 @@ sysThemeNames=("'Pop'" "'Pop-dark'" "'Pop-light'" "'Yaru'" "'Yaru-dark'" "'Yaru-
 themeNames=("pop" "pop" "pop" "yaru" "yaru" "yaru" "maia" "maia")
 
 firefoxInstallationPaths=(
-    ~/.mozilla/firefox
-    ~/.var/app/org.mozilla.firefox/.mozilla/firefox
-    ~/.librewolf
-    ~/.var/app/io.gitlab.librewolf-community/.librewolf
-    ~/snap/firefox/common/.mozilla/firefox
     ~/.floorp
 )
 
