@@ -9,7 +9,7 @@ cd $(mktemp -d) || exit 1
 mkdir firefox-gnome-theme
 cd firefox-gnome-theme
 
-curl -LJo $FILENAME https://github.com/rafaelmardojai/firefox-gnome-theme/tarball/$VERSION
+curl -LJo $FILENAME https://github.com/DaniJohni/firefox-gnome-theme/tarball/$VERSION
 
 tar -xzf $FILENAME --strip-components=1
 
